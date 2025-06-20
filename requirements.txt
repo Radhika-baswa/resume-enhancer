@@ -1,5 +1,0 @@
-# requirements.txt
-streamlit
-PyPDF2
-docx2txt
-nltk
