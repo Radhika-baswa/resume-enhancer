@@ -1,0 +1,5 @@
+streamlit
+docx2txt
+pdfplumber
+transformers
+torch
